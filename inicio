@@ -1,0 +1,18 @@
+<!DOCTYPEhtml >
+< html  lang =" es " >
+< cabeza >
+    < juego de caracteres meta  =" UTF-8 " >
+    < meta  http-equiv =" X-UA-Compatible " content =" IE=edge " >
+    < meta  name =" viewport " content =" ancho=ancho-del-dispositivo, escala-inicial=1.0 " >
+    < título > Documento </ título >
+</ cabeza >
+< cuerpo >
+  < h1 > Proyecto de sitio web 2022 03-04 </ h1 >
+   < H3 > Nombre:Pedro Alexis Albarracín </ H3 >
+   < h3 > Programa: Ingeniería de sistemas </ h3 > 
+   < h4 > Fecha creación: 3 de abril de 2021 </ h4 >
+   < p > Correo electrónico: paalbarracine@unadvirtual.edu.co < br >
+      Celular:3175030341 < br >
+   </ p >
+</ cuerpo >
+</ html > 
